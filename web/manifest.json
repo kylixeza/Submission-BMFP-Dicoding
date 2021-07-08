@@ -1,0 +1,28 @@
+{
+    "name": "furniflur",
+    "short_name": "furniflur",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Furnitale but in flutter",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/logo_furniflur.png",
+            "sizes": "512x475",
+            "type": "image/png"
+        }
+    ]
+}
